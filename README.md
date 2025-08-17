@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I’m a **Cognitive Science student** who spends an unhealthy amount of time thinking about **data, programming, and why humans do weird things**.
-By day, I wrestle with **statistics, machine learning, and cognitive science**. By night, I either play guitar (not Wonderwall) or make memes about cognitive science that somehow got me the honour of running our study programme’s meme page.
+By day, I wrestle with **statistics, machine learning, and cognitive science**. By night, I either play guitar (anything but Wonderwall) or make memes (bad) that somehow got me the honour of running our study programme’s meme page.
 
 ### 🔍 What I Do
 - Turn messy data into **surprisingly useful insights** (R, Python, SQL).  
