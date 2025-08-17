@@ -5,18 +5,19 @@ By day, I wrestle with **statistics, machine learning, and cognitive science**. 
 
 ### 🔍 What I Do
 - Turn messy data into **surprisingly useful insights** (R, Python, SQL).  
-- Build tools for **data science, visualization, and web development** (React, Streamlit).  
+- Build tools for **data science, visualisation, and web development** (React, Streamlit).  
 - Apply cognitive science theory to real-world problems (because apparently “reading minds” isn’t a course yet, smh).
 
-### 🛠️ Tech & Tools
+### 🛠️ Tech and Tools
 R | Python | SQL | PostgreSQL | React | JavaScript | HTML | CSS | SurveyXact | Memes
 
 ### 🚀 Projects
-- **Bridging Pain and Communication** – A React app for chronic pain tracking & clinical collaboration (turns out pain is complicated).  
-- **Scream Together, Fear Together** – Experimental study on social fear dynamics (spoiler: screaming with friends is still scary).  
+- **Bridging Pain and Communication** – A React app for chronic pain tracking and clinical collaboration.  
+- **Scream Together, Fear Together** – Experimental study on social fear dynamics.  
 
 ### 🌍 A bit about me
-- Current **Cognitive Science student** with a background in **Political Science**.  
+- Current **Cognitive Science student** with a background in **Political Science**.
+- Experienced **communicator** and **mentor**.  
 - Meme admin, guitar freak, data nerd.
 - I thrive at the intersection of **data, science, and people** - and I try to make it fun along the way!
 
