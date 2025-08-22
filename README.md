@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m a **Cognitive Science student** who spends an unhealthy amount of time thinking about **data, programming, and why humans (aka lumps of [thinking meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)) do weird things**.
+I’m a **cognitive science student** who spends an unhealthy amount of time thinking about **data, programming, and why humans (aka lumps of [thinking meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)) do weird things**.
 By day, I wrestle with **statistics, machine learning, and cognitive science**. By night, I either play guitar (anything but Wonderwall) or make [bad memes](https://www.instagram.com/cogseje_memes/).
 
 ### 🔍 What I Do
@@ -16,7 +16,7 @@ R | Python | SQL | PostgreSQL | React | JavaScript | HTML | CSS | SurveyXact | M
 - **Scream Together, Fear Together** – Experimental study on social fear dynamics.  
 
 ### 🌍 A bit about me
-- Current **Cognitive Science student** with a background in **Political Science**.
+- Current **cognitive science student** with a background in **political science**.
 - Experienced **communicator** and **mentor**.  
 - Data nerd, guitar freak, and meme lord.
 - I thrive at the intersection of **data, science, and people** - and I try to make it fun along the way!
