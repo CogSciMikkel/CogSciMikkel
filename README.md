@@ -1,6 +1,6 @@
 ## Great to see you! 🌱
 
-I’m a cognitive science student who spends an unhealthy amount of time analysing data and trying to understand how humans (aka lumps of [thinking meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)) process information and navigate complex decisions. 
+I’m a cognitive science student focused on analysing data and trying to understand how humans (aka lumps of [thinking meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)) process information and navigate complex decisions. 
 
 When I'm not wrestling with numbers and neurons, I'm usually playing guitar or making [bad memes](https://www.instagram.com/cogseje_memes/).
 
