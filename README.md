@@ -11,8 +11,8 @@ When I'm not wrestling with numbers and neurons, I'm usually playing guitar or m
 - Apply cognitive science to real-world problems.
 
 ### 🛠️ Tech Stack
-#### Data and Analysis
-R | Python | SQL | PostgreSQL 
+#### Data, Analysis and Experiments
+R | Python | PsychoPy | SQL | PostgreSQL 
 
 #### Web and Apps
 React | JS | HTML | CSS | Streamlit
@@ -20,12 +20,12 @@ React | JS | HTML | CSS | Streamlit
 ### 🚀 Selected Projects
 - **Alumni Career Trajectory Project** – Developed an R/Python/PostgreSQL pipeline to collect, clean, and analyse career trajectories of Business and Social Sciences alumni at [Aarhus University](https://bss.au.dk/en/). 
 - **Bridging Pain and Communication** – Built a React-based web application to support chronic pain tracking and improve patient-doctor communication.
-- **Same Options, Different Struggles** - Experimental mouse-tracking study on framing effects in decision making. Designed the experiment and analysed trajectory data using multilevel models.
+- **Same Options, Different Struggles** - Experimental mouse-tracking study on framing effects in decision making. Designed the experiment and analysed mouse trajectory data using multilevel models.
 - **Scream Together, Fear Together** – Experimental study on social fear dynamics. Designed experiment, and conducted statistical analyses of behavioural and heart rate data.
 
 ### 🌍 About Me
 - Current cognitive science student with a background in political science.  
-- Guitar nut, and meme lord.
+- Guitar geek, literature lover, and meme lord.
 
 <!--
 **CogSciMikkel/CogSciMikkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
