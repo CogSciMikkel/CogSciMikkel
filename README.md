@@ -6,13 +6,13 @@ I spend my time analysing data and trying to understand how humans (aka lumps of
 
 When I'm not wrestling with numbers and neurons, I usually play guitar or make [bad memes](https://www.instagram.com/cogseje_memes/).
 
-### 🔍 What I Do
+### 🔍 Skills
 - Analyse behavioural and experimental data.
 - Design and run experimental studies.  
 - Build data and web tools.  
 - Apply cognitive science to real-world problems.
 
-### 🛠️ My Tool Box
+### 🛠️ Tools
 #### Data, Analysis and Experiments
 R | Python | PsychoPy | SQL | PostgreSQL 
 
