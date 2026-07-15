@@ -4,7 +4,7 @@ My name is Mikkel (he/him), and I’m a 4th semester BSc Cognitive Science stude
 
 🚀 **Check out my CV and projects on my [website](https://cogscimikkel.github.io/)!**
 
-I spend my time analysing data and trying to understand how humans (aka lumps of [thinking meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)) process information and navigate complex decisions. 
+I spend my time analysing data and trying to understand how humans (aka lumps of [thinking meat](https://web.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)) process information and navigate complex decisions. 
 
 When I'm not wrestling with numbers and neurons, I usually play guitar or make [bad memes](https://www.instagram.com/cogseje_memes/).
 
